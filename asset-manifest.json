@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/frontend_ronorcar/static/css/main.5c1a203f.css",
-    "main.js": "/frontend_ronorcar/static/js/main.93c47eef.js",
+    "main.css": "/frontend_ronorcar/static/css/main.708a188e.css",
+    "main.js": "/frontend_ronorcar/static/js/main.96b4251b.js",
     "static/media/pexels-7lat-8442905.jpg": "/frontend_ronorcar/static/media/pexels-7lat-8442905.c8fe7325e2d1f768c488.jpg",
-    "static/media/For portfolio.jpg": "/frontend_ronorcar/static/media/For portfolio.660c36c55a2213d05db4.jpg",
     "static/media/13124469_SL-092920-35860-24.jpg": "/frontend_ronorcar/static/media/13124469_SL-092920-35860-24.98bf32e62e88da8d3fb0.jpg",
+    "static/media/Photo.jpg": "/frontend_ronorcar/static/media/Photo.56178b95ce0995c92a3a.jpg",
     "static/media/pngimg.com - car_logo_PNG1653.png": "/frontend_ronorcar/static/media/pngimg.com - car_logo_PNG1653.271bdc3a4834cb91cd5a.png",
     "static/media/pngimg.com - car_logo_PNG1637.png": "/frontend_ronorcar/static/media/pngimg.com - car_logo_PNG1637.84a98228f7b478e47070.png",
     "static/media/pexels-ingo-13781.webp": "/frontend_ronorcar/static/media/pexels-ingo-13781.b637240549a3406b53f7.webp",
@@ -85,11 +85,11 @@
     "static/media/fa-v4compatibility.woff2": "/frontend_ronorcar/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/frontend_ronorcar/index.html",
     "static/media/getFetch.cjs": "/frontend_ronorcar/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.5c1a203f.css.map": "/frontend_ronorcar/static/css/main.5c1a203f.css.map",
-    "main.93c47eef.js.map": "/frontend_ronorcar/static/js/main.93c47eef.js.map"
+    "main.708a188e.css.map": "/frontend_ronorcar/static/css/main.708a188e.css.map",
+    "main.96b4251b.js.map": "/frontend_ronorcar/static/js/main.96b4251b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c1a203f.css",
-    "static/js/main.93c47eef.js"
+    "static/css/main.708a188e.css",
+    "static/js/main.96b4251b.js"
   ]
 }
