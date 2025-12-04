@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend_ronorcar/static/css/main.5c1a203f.css",
-    "main.js": "/frontend_ronorcar/static/js/main.72dae782.js",
+    "main.js": "/frontend_ronorcar/static/js/main.93c47eef.js",
     "static/media/pexels-7lat-8442905.jpg": "/frontend_ronorcar/static/media/pexels-7lat-8442905.c8fe7325e2d1f768c488.jpg",
     "static/media/For portfolio.jpg": "/frontend_ronorcar/static/media/For portfolio.660c36c55a2213d05db4.jpg",
     "static/media/13124469_SL-092920-35860-24.jpg": "/frontend_ronorcar/static/media/13124469_SL-092920-35860-24.98bf32e62e88da8d3fb0.jpg",
@@ -38,7 +38,6 @@
     "static/media/pngimg.com - car_logo_PNG1648.png": "/frontend_ronorcar/static/media/pngimg.com - car_logo_PNG1648.72c3f18e89be607990e6.png",
     "static/media/pfp2.jpg": "/frontend_ronorcar/static/media/pfp2.fd9b1716200244ed8905.jpg",
     "static/media/fa-brands-400.woff2": "/frontend_ronorcar/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
-    "static/media/photo_2024-01-20_00-35-40.jpg": "/frontend_ronorcar/static/media/photo_2024-01-20_00-35-40.e9b2ad8ec624a7d95402.jpg",
     "static/media/pngimg.com - car_logo_PNG1662.png": "/frontend_ronorcar/static/media/pngimg.com - car_logo_PNG1662.bc04a98364b8fea52019.png",
     "static/media/profile2.jpg": "/frontend_ronorcar/static/media/profile2.95da767cc18608103179.jpg",
     "static/media/profile10.jpg": "/frontend_ronorcar/static/media/profile10.a786b5f94d80a4429260.jpg",
@@ -87,10 +86,10 @@
     "index.html": "/frontend_ronorcar/index.html",
     "static/media/getFetch.cjs": "/frontend_ronorcar/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.5c1a203f.css.map": "/frontend_ronorcar/static/css/main.5c1a203f.css.map",
-    "main.72dae782.js.map": "/frontend_ronorcar/static/js/main.72dae782.js.map"
+    "main.93c47eef.js.map": "/frontend_ronorcar/static/js/main.93c47eef.js.map"
   },
   "entrypoints": [
     "static/css/main.5c1a203f.css",
-    "static/js/main.72dae782.js"
+    "static/js/main.93c47eef.js"
   ]
 }
